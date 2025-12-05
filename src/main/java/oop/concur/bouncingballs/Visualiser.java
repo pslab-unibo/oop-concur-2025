@@ -24,8 +24,9 @@ public class Visualiser extends Thread {
 		}
 	}
 
+	/* 
 	private void log(String msg) {
 		System.out.println("[VISUALISER] " + msg);
-	}
+	}*/
 
 }

@@ -65,8 +65,5 @@ public class BallAgent extends Thread {
 		return new P2d(pos.x, pos.y);
 	}
 
-	private void log(String msg) {
-		System.out.println("[BALL] " + msg);
-	}
 
 }
